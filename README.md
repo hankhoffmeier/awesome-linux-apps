@@ -111,6 +111,7 @@
 
 ## Databases
 
+- [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern, easy-to-use SQL editor and database manager for MySQL, PostgreSQL, SQLite, SQL Server and more. 👏
 - [CockroachDB](https://github.com/cockroachdb/cockroach) - CockroachDB is a distributed SQL database built on a transactional and strongly-consistent key-value store. 👏
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - High quality, visual, open source tool with SQLite. 👏
 - [DBeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client. 👏
